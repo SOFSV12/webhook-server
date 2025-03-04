@@ -1,4 +1,4 @@
-# Laravel 10 Business Application
+# Laravel 10 Webhook Notifier Application
 
 This Laravel 10 application allows individuals to create a business by providing a name and a `hook_url`. Upon creation, they receive a response containing their business information and a generated `api_key` for subsequent requests.
 
